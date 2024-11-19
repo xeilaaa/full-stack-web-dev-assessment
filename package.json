@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "uikit": "^3.21.13",
+    "uikit-icons": "^0.5.0",
+    "uuid": "^11.0.3"
+  }
+}
